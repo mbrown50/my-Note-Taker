@@ -129,7 +129,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-Assets/
+.Assets/
 README-assignment
 .DS_Store
-Develop/
+.Develop/
