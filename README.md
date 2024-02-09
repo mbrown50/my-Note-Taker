@@ -14,14 +14,10 @@
   
   License: MIT
   
-  Badge: https://img.shields.io/badge/License-MIT-yellow.svg
-  
   Link: https://opensource.org/licenses/MIT
   
   ## Questions
 
-  Deployed link: -- TBD --
-
   GitHub username: mbrown50
 
-  GitHub Repo: https://github.com/mbrown50/my-README-create
+  GitHub Repo: https://github.com/mbrown50/my-Note-Taker
